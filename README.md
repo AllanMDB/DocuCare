@@ -1,9 +1,12 @@
 
 # Details
 
-**Project** : Docucare 
-**Team Number** : _insert team number here_  
-**Team Name** : _insert team name here_  
+**Project** : DocuCare, trademark pending, is a Doctor Platform that transforms recorded medical information into concise summaries and actionable insights for both doctors and patients. The doctor is provided with immediate patient information, a summary of their past visits, real time analysis, and potential diagnosis. DocuCare aims to enhance the doctor-patient relationship through intelligent data utilization./ 
+
+**Team Number** : 9  
+
+**Team Name** : NA ACQ SA  
+
 **Demonstration Video** : _Insert link to demonstration video_  
 
 # Overview
@@ -34,7 +37,33 @@ _Describe what you application does and how it works_
 
 # Roles and Responsibilities
 
-_List all the team members and summarize the contributions each member made to this project_
+* Aashish Regmi
+   * Role: Backend Developer
+   * Responsibility: write backend API endpoints, Atlas functions and HTTPS endpoints, search queries, prompt engineering with RAG
+* Adlai Gordon
+   * Role: Front Developer
+   * Responsibility: react frontend development, graphic design 
+* Allan Schiebold
+   * Role: Data Engineer
+   * Responsibility: generate sample Data, write aggregation queries, architecture diagram, documentation, presentation slides, Charts design
+* Brent Dorenkamp
+   * Role: Data Engineer
+   * Responsibility: generate sample data, video recording, documentation, presentation slides 
+* Clarence Ondieki
+   * Role: Backend Tech Lead
+   * Responsibility: led backend tasks planning/assignment, tech support to the team, backend API endpoints development, Atlas HTTPS endpoints, Atlas functions, full text and vector search queries, contribute to README.md   
+* Michael Pepe
+   * Role: Domain Expert, Tech Consultant
+   * Responsibility: architecture diagram, script generation, healthcare consulting, use case development
+* Travis Williams
+   * Role: Frontend Tech Lead, General Coach
+   * Responsibility: led hackathon planning, tech support to the team, Azure openAI lead, application architecture design, react frontend development
+* Yang Li
+   * Role: Backend Developer 
+   * Responsibility: load data, generate embeddings, search queries, Atlas functions, contribute to README.md and architecture diagram  
+* Younes Berrada
+   * Role: Frontend and Backend Developer
+   * Responsibility: IoT gateway, time series, Atlas Charts, Kafka connector, Atlas Stream Processing
 
 # Demonstration Script
 
