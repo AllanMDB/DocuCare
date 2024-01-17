@@ -20,8 +20,14 @@ Just like Docucare shows, MongoDB’s developer data platform allows organizatio
 # Detailed Application Overview
 
 _Describe the architecture of your application and include a diagram._
+Docucare uses a majority of Atlas components to achieve enhanced communication. Upon logging in, the doctor view is presented with a list of patients and a search bar all facilitated by App services HTTP endpoints and functions. A search bar powered by Atlas search for any mistakes (fuzzy matching) and autocomplete features to make our doctor's life easier. 
 
-Our application uses the following components:
+Once in a single patient view, the doctor has an overall view of the patient together with an AI generated summary covering his previous visits, any current medication, diagnosis etc. If the patient has wearable devices, charts with continous vitals are also presented for the doctor to evaluate. The doctor then has a notepad to take notes during a visit, whereby we have combined AI to summarize the notes, but also in conjunction with our knowledge base using vector search to come up with potential conversational key topics to discuss as they work together towards a diagnosis. All this happens instantaneously using our app services. At the end of a session, a potential diagnosis and treatment option is presented as a potential path forward for the patient.
+
+![Architecture Diagram](Screenshots/Docucare_Arch.png)
+
+
+Docucare uses the following components:
 
 * Atlas Database
 * Atlas Full Text Search
