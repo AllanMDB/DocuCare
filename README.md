@@ -45,8 +45,8 @@ Docucare uses the following components:
    * Role: Backend Developer
    * Responsibility: write backend API endpoints, Atlas functions and HTTPS endpoints, search queries, prompt engineering with RAG
 * Adlai Gordon
-   * Role: Front Developer
-   * Responsibility: react frontend development, graphic design 
+   * Role: Frontend Developer
+   * Responsibility: react frontend development, documentation, graphic design 
 * Allan Schiebold
    * Role: Data Engineer
    * Responsibility: generate sample Data, write aggregation queries, architecture diagram, documentation, presentation slides, Charts design
